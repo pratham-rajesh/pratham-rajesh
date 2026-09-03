@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Pratham!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Currently a Software Engineering graduate student at San Jose State University, California.<br>🎬 Building apps by day, hunting for good movie recommendations by night<br>🧠 Currently learning reinforcement learning — reward shaping is basically just game design in disguise<br><br><br>📌 Currently exploring roles in:<br><br>Software Engineering<br>AI and ML Engineering
 
 
